@@ -1,0 +1,43 @@
+body {
+    background-color: black !important;
+}
+
+#header .header-wrapper {
+    background-color: #b03920 !important;
+}
+
+.projet {
+    background-color: gray !important;
+}
+
+.activite {
+    background-color: gray !important;
+}
+
+.final_render .module {
+    background-color: gray !important;
+}
+
+.view_more {
+    background-color: #bcb8b6 !important;
+}
+
+.note {
+    background-color: gray !important;
+}
+
+.susie {
+    background-color: gray !important;
+}
+
+.is_empty {
+    color: white !important;
+}
+
+#wall #content .bloc .item:hover {
+    background-color: gray !important;
+}
+
+#wall #content .bloc .item:hover .data .content.html {
+    background-color: gray;
+}
